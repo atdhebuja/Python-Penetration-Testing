@@ -1,0 +1,13 @@
+
+Gives us kernel details and distributions
+uname -a
+
+Check versions of Python installed
+python
+exit ()
+
+Check version of Python3
+python3
+exit ()
+
+===========================================
