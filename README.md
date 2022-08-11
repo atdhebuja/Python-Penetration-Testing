@@ -7,3 +7,4 @@ Methodology used PTES the link http://www.pentest-standard.org/index.php/Main_Pa
 Environment used for Python scenarios is Kali Linux v.2022
 First check the version of Python you have within Kali Linux v.2022
 ![image](https://user-images.githubusercontent.com/31279116/184072312-ff6bf846-52f3-4cde-8f4c-411828ca99e8.png)
+See file for scripts Run Python2 scripts in Kali Linux v2022
