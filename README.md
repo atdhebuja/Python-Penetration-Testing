@@ -12,6 +12,6 @@ Environment used for Python scenarios is Kali Linux v.2022
 See file for script Run Python2 scripts in Kali Linux v2022.txt
 
 # 2. Python Port Scanner 
-See file for script Python Port Scanner.txt
+See file for script Python Port Scanner.py
 
 # 3. 
