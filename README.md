@@ -13,6 +13,12 @@ Environment used for Python scenarios is Kali Linux v.2022
 See file for script Run Python scripts in Kali Linux v2022.txt
 
 # 2. Python Port Scanner 
+![image](https://user-images.githubusercontent.com/31279116/184298484-abd5e85d-a1d5-4915-aced-d9a3790cdfca.png)
+
+
 See file for script Python Port Scanner.py
 
-# 3. 
+# 3. Python Banner Grabbing
+![image](https://user-images.githubusercontent.com/31279116/184297653-6e9e3e13-111e-46e7-a59a-91a18eb269a1.png)
+
+See file for script Python Banner Grabbing
