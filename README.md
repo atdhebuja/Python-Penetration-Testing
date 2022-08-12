@@ -21,4 +21,4 @@ See file for script Python Port Scanner.py
 # 3. Python Banner Grabbing
 ![image](https://user-images.githubusercontent.com/31279116/184297653-6e9e3e13-111e-46e7-a59a-91a18eb269a1.png)
 
-See file for script Python Banner Grabbing
+See file for script Python Banner Grabbing.py
